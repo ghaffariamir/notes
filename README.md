@@ -1,39 +1,39 @@
 ### Number Row Characters
 
-* Shift-1: \!
+1\. **Shift-1: \!**
   - Exclamation mark
 
-* Shift-2: \@
+2\. **Shift-2: \@**
   - At sign
 
-* Shift-3: \#
+3\. **Shift-3: \#**
   - Hash
 
-* Shift-4: \$
+4\. **Shift-4: \$**
   - Dollar 
 
-* Shift-5: \%
+5\. **Shift-5: \%**
   - Percent 
 
-* Shift-6: \^
+6\. **Shift-6: \^**
   - Hat
 
-* Shift-7: \&
+7\. **Shift-7: \&**
   - And
 
-* Shift-8: \*
+8\. **Shift-8: \***
   - Star
 
-* Shift-9: \(
+9\. **Shift-9: \(**
   - Left parenthesis
 
-* Shift-0: \)
+10\. **Shift-0: \)**
   - Right parenthesis
 
-* Shift--: \_
+11\. **Shift--: \_**
   - Underline
 
-* Shift-=: \+
+12\. **Shift-=: \+**
   - Plus
 ### Links
 
