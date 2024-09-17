@@ -46,5 +46,4 @@
 * :traffic_light:
 * :surfer:
 * :sun_with_face:
-* :hankey:
 * :eyes:
