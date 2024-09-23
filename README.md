@@ -47,12 +47,13 @@
  * :surfer:
  * :sun_with_face:
  * :eyes:
-Shortcuts I frequently use: 
+
+### Shortcuts I frequently use: 
 - Ctrl + C: Copy
 - Ctrl + A: Select all
 - Alt + Tab: Switch between open apps
 
-Shortcuts I would like to start using: 
+### Shortcuts I would like to start using: 
 - Win + I: Open Settings
 - Win + E: Open File Explorer
 - Win + D: Show desktop
