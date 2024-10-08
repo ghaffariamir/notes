@@ -16,4 +16,3 @@ The `cat` command is used to display the contents of a file on the terminal. It 
 
 **Common Options**:
 - `-n`: Number the output lines.
-[CLI commands](docs/cli.md)
