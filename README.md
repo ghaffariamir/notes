@@ -41,6 +41,7 @@
 * [On Screen Keyboard](https://gate2home.com/English-Keyboard)
 * [List of emjies](https://gist.github.com/rxaviers/7360908)
 * [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[CLI commands](docs/cli.md)
 
 ### Experiments
  * :traffic_light:
@@ -57,4 +58,3 @@
 - Win + I: Open Settings
 - Win + E: Open File Explorer
 - Win + D: Show desktop
-[CLI commands](docs/cli.md)
