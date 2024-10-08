@@ -57,3 +57,4 @@
 - Win + I: Open Settings
 - Win + E: Open File Explorer
 - Win + D: Show desktop
+[CLI commands](docs/cli.md)
