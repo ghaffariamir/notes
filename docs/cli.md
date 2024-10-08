@@ -6,7 +6,7 @@ The `ls` command is used to list the contents of a directory. It shows files and
 **Usage**: 
 
 **Common Options**:
-- `-l`: List in long format.
+- `-l`: List in long format for listing.
 - `-a`: Include hidden files.
 
 ## cat Command
