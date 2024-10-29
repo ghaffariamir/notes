@@ -14,9 +14,9 @@
   position: Forward
   age: 36
 
-- name: Serena Williams
-  sport: Tennis
-  team: null
+- name: Serena Williams # string
+  sport: Tennis # string
+  team: null # null
   position: Player
   age: 41
 
